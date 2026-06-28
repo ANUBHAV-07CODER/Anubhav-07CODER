@@ -127,14 +127,6 @@ Strengthening logic and problem-solving through C and C++ — the foundation eve
 
 </div>
 
-### 📅 Contribution Calendar
-
-<div align="center">
-
-
-
-![Anubhav's Contribution Calendar](https://ghchart.rshah.org/8a2be2/Anubhav-07CODER)
-
 
 
 </div>
